@@ -4,7 +4,8 @@
 
 ## Tech Stack
 
-- **Clients :** Filebeat, Logstash, Elasticsearch, Kibana, Elastalert, Sigma
+- **Clients :** Filebeat, Webapp, BD, VoIP
+- **Services Internes :** Logstash, Elasticsearch, Kibana, Elastalert, Sigma
 - **Services Externes :** Jira, Mail Server, Slack
 
 ## Features
