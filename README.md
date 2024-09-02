@@ -24,6 +24,10 @@
 5. **Elastalert** envoie des alertes à **Jira**, **Mail Server**, et **Slack**.
 6. **Kibana** permet aux analystes SOC de visualiser et analyser les données.
 
-### Screenshots
+### Schema
 
 ![App Screenshot](https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/Screen%20Shot%202024-08-31%20at%2021.30.54.png)
+
+### Diagramme 
+
+![App Screenshot]([https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/Screen%20Shot%202024-08-31%20at%2021.30.54.png](https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/deployment_diagram%20(3).png))
