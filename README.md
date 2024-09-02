@@ -30,4 +30,4 @@
 
 ### Diagramme 
 
-![App Screenshot]([https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/Screen%20Shot%202024-08-31%20at%2021.30.54.png](https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/deployment_diagram%20(3).png))
+![App Screenshot](https://raw.githubusercontent.com/Agb242/Soc-as-Service/main/deployment_diagram%20(3).png)
